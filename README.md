@@ -1,8 +1,8 @@
         🎩 Cynical - Syn
       
-        Backend / Fontend Dev / Discord Bot Developer
+        Backend / Fontend Dev / Google Developer ( CERTIFIED )
         
          HTML, Node.js, Java, Python, PHP
          
-       I like coding and creating pretty cool bots that anyone can enjoy with there own Experiences!
+      Developer at google since 2016, of July 17th 2016. Now Certified as a Developer for google.
 
