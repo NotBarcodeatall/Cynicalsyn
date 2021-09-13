@@ -2,7 +2,7 @@
       
         Backend / Fontend Dev / 
                 
-                Black hat? / Grey Hat
+                Stats Network Developer
         
          HTML, Node.js, Java, Python, PHP
          
